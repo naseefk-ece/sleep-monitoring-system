@@ -29,11 +29,11 @@
  *    - CSV Export     : Session data downloadable from browser
  *    - ThingSpeak     : Optional cloud logging (configurable)
  *
- *  Team        : (Your Name), Athul, Sreegouri, Nasiha
- *  Institution : (Your College Name)
- *  Date        : June 2026
+ *  Team        : Naseef, Athul, Sreegouri, Nasiha
+ * 
+ *  Date        : may 29 - June 12 2026
  *
- *  GitHub      : (Your GitHub Link)
+ *  GitHub      : https://github.com/naseefk-ece/sleep-monitoring-system
  *
  * ============================================================
  */
