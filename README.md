@@ -1,4 +1,4 @@
-# 🫁 Integrated Sleep Apnea & Nocturnal Seizure Detection System
+# 🫁 Sleep Monitoring System
 
 > An IoT-based wearable biomedical monitoring system that detects sleep apnea and nocturnal seizures in real time using multi-parameter physiological sensing — built as an affordable alternative to hospital-based polysomnography.
 
@@ -199,15 +199,15 @@ String apiKey = "YOUR_THINGSPEAK_WRITE_API_KEY";
 
 ## 👥 Team
 
-|Name       |Role                      |
-|-----------|--------------------------|
-|(Your Name)|Hardware Design & Firmware|
-|Athul      |(Role)                    |
-|Sreegouri  |(Role)                    |
-|Nasiha     |(Role)                    |
+|Name       
+|-----------
+|Naseef K
+|Athul P     
+|Sreegouri  
+|Nasiha Nowshad
 
-**Institution:** (Your College Name)
-**Date:** June 2026
+
+**Date:May 29 - June 12 2026
 
 -----
 
