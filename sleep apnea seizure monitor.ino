@@ -1,6 +1,6 @@
 /*
  * ============================================================
- *   INTEGRATED SLEEP APNEA & NOCTURNAL SEIZURE DETECTION SYSTEM
+ *   SLEEP MONITORING SYSTEM
  * ============================================================
  *
  *  Project   : IoT-Based Smart Sleep Monitoring System
